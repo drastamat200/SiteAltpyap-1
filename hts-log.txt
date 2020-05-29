@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 May 2020 02:25:42 at https://www.erensibot.com/#Anasayfa +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Px%q0s2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.erensibot.com/#Anasayfa -O1 "C:\speakturk\ErexisBot" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:25:57	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+02:25:57	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/Anasayfa (from primary/primary)
+02:25:59	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/689766089567109158/810db71058db7c0062fc1f3b5201b627.png?size=512 (from https://www.erensibot.com/)
+02:25:59	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/avatars/689766089567109158/810db71058db7c0062fc1f3b5201b627.png (from https://www.erensibot.com/)
+02:26:02	Warning: 	Found for https://www.erensibot.com/destek/
+02:26:02	Warning: 	File has moved from https://www.erensibot.com/destek/ to https://discord.gg/BKDr6Zy
+02:26:03	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/Anasayfa (from primary/primary)
+02:26:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.erensibot.com/css/animate.css (from https://www.erensibot.com/css/style.css)
+02:26:11	Error: 	"Not Found" (404) at link https://www.erensibot.com/popper.js (from https://www.erensibot.com/js/bootstrap.min.js)
+02:26:11	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/Anasayfa (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 32 seconds : 62 links scanned, 52 files written (3847016 bytes overall) [2346719 bytes received at 73334 bytes/sec], 2137767 bytes transferred using HTTP compression in 32 files, ratio 28%, 9.8 requests per connection
+(5 errors, 5 warnings, 0 messages)

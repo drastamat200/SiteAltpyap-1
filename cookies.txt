@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.erensibot.com	TRUE	/	FALSE	1999999999	PHPSESSID	b3eeda2ce1231ad7867368f5c6033f34
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	d60853ae3204a3e20a4dedba0f48d54f71590791148
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
